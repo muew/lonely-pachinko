@@ -9,14 +9,14 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.50 0.50 0.50
 Tf 1.00 1.00 1.00
-map_Kd -s 0.4 1.25 floor.jpg
+map_Kd -s 0.4 1.25 floor.bmp
 Ni 1.00
 newmtl lambert3SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.36 0.36 0.36
 Tf 1.00 1.00 1.00
-map_Kd -s 0.434783 2 TexturesCom_PaperDecorative0069_M.jpg
+map_Kd -s 0.434783 2 TexturesCom_PaperDecorative0069_M.bmp
 bump -s 499.999976 1 WHDQ-512219394_22.jpg -bm 0.3
 Ni 1.00
 newmtl lambert4SG
@@ -24,12 +24,12 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd -s 1.25 1 WHDQ-512219394_22.jpg
+map_Kd -s 1.25 1 WHDQ-512219394_22.bmp
 Ni 1.00
 newmtl lambert6SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd -s 0.333333 0.5 wood_oak_texture_20120518_1562126346.jpg
+map_Kd -s 0.333333 0.5 wood_oak_texture_20120518_1562126346.bmp
 Ni 1.00
